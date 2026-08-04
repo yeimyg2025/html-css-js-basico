@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+h1{
+    background-color: green;
+    color: white;
+    padding: 20px 40px 20px 20px;
+    font-size: 40px;
+}
+nav{
+    background-color: blue;
+}
+li a{
+        color: white;
+        text-decoration: none;
+    }
+li{
+        display: inline-block;
+        margin: 30px;
+        font-size: 10px 0px 10px 40px;
+        font-weight: bold;
+    }
+
